@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [juanbnunez.info](www.juanbnunez.com)
+- 👨‍💻 All of my projects are available at [juanbnunez.info](http://juanbnunez.info)
 
 - 💬 Ask me about **Java**
 
