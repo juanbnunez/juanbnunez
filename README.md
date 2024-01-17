@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [juanbnunez.info](https://juanbnunez.info)
+- 👨‍💻 All of my projects are available at [juanbnunez.info]()
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **contact@juanbnunez.info**
+- 📫 How to reach me **nunezparralesj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
