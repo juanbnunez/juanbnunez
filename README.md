@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Bautista Núñez</h1>
 <h3 align="center">A Computer Science student from Costa Rica</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/juanbnunez/myPortfolio.git)
-
 - 🌱 I’m currently learning **SQL**
 
 - 💬 Ask me about **Java**
